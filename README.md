@@ -68,11 +68,11 @@ Responsibilities and workflow:
 4.Training New Recruits:
 •	Conducted training sessions for new recruits on abstracting content from patents. Developed training materials and provided hands-on guidance to help new team members quickly adapt to their roles and responsibilities.
 
-CERTIFICATION:
+**CERTIFICATION:**
 
 Currently enrolled in a comprehensive Data Science course that covers a wide range of topics essential for data analysis and machine learning, including Python, SQL, NumPy, Pandas, Machine Learning, Artificial Intelligence, and Power BI.
 
 Contact
-You can reach me at [LinkedIn](www.linkedin.com/in/venkatesan-s-9b590857) or [GitHub](https://github.com/username).
+You can reach me at [LinkedIn](www.linkedin.com/in/venkatesan-s-9b590857) or [GitHub](https://github.com/Venkatesan812).
 
 
